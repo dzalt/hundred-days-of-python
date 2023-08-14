@@ -1,18 +1,25 @@
+# 100 Days of Python
+
 My projects for 100 Days of Python from Udemy.
-Link: [Udemy - 100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
+
+Link: [100 Days of Code: The Complete Python Pro Bootcamp for 2023 | Udemy](https://www.udemy.com/course/100-days-of-code/)
 
 I didn't do all the projects, I just wanted to learn the basics and then practice more by working on my IRL projects.
 
-Day 1 - Variables
+***
+
+## Days
+
+**Day 1** - Variables
 - Band Name Generator
 
-Day 2 - Data Types
+**Day 2** - Data Types
 - Data Types
 - BMI Calculator
 - Life in Weeks
 - Tip Calculator
 
-Day 3 - If Else
+**Day 3** - If Else
 - Odd or Even
 - BMI Calculator V2
 - Leap Year
@@ -20,15 +27,35 @@ Day 3 - If Else
 - Love Calculator
 - Treasure Island
 
-Day 4 - List and Module
+**Day 4** - List and Module (Random)
 - Heads or Tails
 - Banker Roulette
 - Treasure Map
 - Rock Paper Scissors
 
-Day 5 - For Loop
+**Day 5** - For Loop
 - Average Height
 - High Score
 - Even Numbers
 - FizzBuzz
 - Password Generator
+
+**Day 6** - Function and While Loop
+- Reeborg (Link: [Reeborg's World](https://reeborg.ca/reeborg.html))
+
+**Day 7** - Hangman
+- Hangman
+
+**Day 8** - Function (Parameter)
+- Paint Area Calculator
+- Prime Number Checker
+- Caesar Cipher
+
+**Day 9** - Dictionary
+- Grading Program
+- Dictionary in List
+- Secret Auction
+
+**Day 10** - Function (Return)
+- Days in Month (Leap Year V2)
+- Calculator
