@@ -6,8 +6,6 @@ Link: [100 Days of Code: The Complete Python Pro Bootcamp for 2023 | Udemy](http
 
 I didn't do all the projects, I just wanted to learn the basics and then practice more by working on my IRL projects.
 
-***
-
 ## Days
 
 **Day 1** - Variables
@@ -59,3 +57,18 @@ I didn't do all the projects, I just wanted to learn the basics and then practic
 **Day 10** - Function (Return)
 - Days in Month (Leap Year V2)
 - Calculator
+
+**Day 11** - Blackjack
+- Blackjack
+
+**Days 12** - Scope
+- Guess the Number
+
+**Days 13** - Debugging
+- *There are no projects for day 13*.
+
+**Day 14** - Higher Lower
+- Higher Lower
+
+**Day 15** - Coffee Machine
+- Coffee Machine
